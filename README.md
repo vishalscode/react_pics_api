@@ -8,7 +8,7 @@ In this project, I did little bit react excerice on how to fetch images from api
 # How to run 
 $ git clone https://github.com/vishalscode/react_pics_api.git
 
-$ npm audit fix
+$ npm install
 
 $ npm start
 
